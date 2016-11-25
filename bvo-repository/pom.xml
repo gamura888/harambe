@@ -7,7 +7,7 @@
   <packaging>pom</packaging>
   <name>bvo-repository</name>
   <modules>
-    <module>rest-api</module>
+    <module>harambe-rest-api</module>
     <module>bvo-repository-ear</module>
     <module>harambe-server</module>
     <module>harambe-client</module>
